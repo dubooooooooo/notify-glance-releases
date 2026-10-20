@@ -86,12 +86,12 @@
   <tr>
     <td align="center" width="33%"><img src="images/search.png" alt="검색 칸에 '회의'를 넣자 찾은 낱말이 노랗게 표시된 결과"></td>
     <td align="center" width="33%"><img src="images/menu-card.png" alt="카드 우클릭 메뉴: 팝업으로 보기 · 카카오톡에서 열기 · 나중에 다시 알림 · 즐겨찾기 · 내용 복사"></td>
-    <td align="center" width="33%"><img src="images/menu-panel.png" alt="위젯 빈 곳 우클릭 메뉴: 모두 읽음 · 휴지통 · 키워드 알림 · 잠깐 조용히 · 미니 모드 · 개인정보 가리기 · 소리 · 위젯 자리 고정 · 설정"></td>
+    <td align="center" width="33%"><img src="images/menu-panel.png" alt="위젯 빈 곳 우클릭 메뉴 (⋯ 메뉴와 같음): 키워드 알림 · 잠깐 조용히 · 개인정보 가리기 · 미니 모드 · 위젯 자리 고정 · 설정"></td>
   </tr>
   <tr>
     <td align="center"><b>검색</b><br>내용 · 보낸 사람 · 날짜 (Ctrl+Alt+N)</td>
     <td align="center"><b>카드 우클릭</b></td>
-    <td align="center"><b>빈 곳 우클릭</b></td>
+    <td align="center"><b>빈 곳 우클릭 · ⋯ 메뉴</b></td>
   </tr>
 </table>
 
